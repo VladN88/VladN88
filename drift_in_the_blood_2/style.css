@@ -1,0 +1,58 @@
+body
+    {
+        background: url("images/Backgraund.jpg");
+        -moz-background-size:100%;
+        -webkit-background-size:100%;
+        -o-background-size:100%;
+        background-size:100%;
+        font-size:2em;
+    }
+p
+    {
+        color: white;
+    }
+h1
+    {
+        color: chartreuse
+    }
+h3
+    {
+         color: pink
+    }
+div
+    {
+        color: white;
+    }
+p#test\ 3
+    {
+        color: pink;
+    }
+li
+    {
+         font-size: 0.8em;
+        color: pink
+    }
+button
+    {
+          display: inline-block;
+           color: chartreuse;
+             padding: 7px 30px;
+             background-color: gray;
+            border: 1px solid gold;
+            border-radius: 20px;
+    }
+button:hover{
+        background-color: blue;
+    }
+input{
+        color: black;
+        background-color: goldenrod;
+        padding: 15px 70px;
+        border-radius: 10px;
+        border: 1px solid black;
+    }
+.image-center
+    {
+        display: block;
+        margin: auto;
+    }
